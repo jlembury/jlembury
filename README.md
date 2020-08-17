@@ -1,7 +1,5 @@
 # <img src="https://jlembury.github.io/img/waypt_logo.png" alt="Waypoint Logo" width=25px;> You found me!
 
-## Welcome, I'm glad you're here.
-
 I'm Jessica Embury, a geographer based in San Diego. I create engaging map products and powerful geospatial tools by combining GIS technologies with software development and design. 
 
 As I complete my B.S. in Geography and GIS Certificate at SDSU, I am working as an intern for the City of San Diego and a research assistant for the Center for Human Dynamics in the Mobile Age. My research interests include public health, human dynamics, and natural resource management. I particularly enjoy working with big data and incorporating software development into my GIS applications. As a self-taught web developer, I am excited to use this skill set to expand the scope and functionality of my projects. 
