@@ -1,4 +1,4 @@
-# <img src="https://jlembury.github.io/img/waypt_logo.png" alt="Waypoint Logo" width=30px;> Hey there, welcome!
+# <img src="https://jlembury.github.io/img/waypt_logo.png" alt="Waypoint Logo" width=30px;> Hey, welcome!
 
 I'm Jessica Embury, a geographer based in San Diego. I create engaging map products and powerful geospatial tools by combining GIS technology with software development and design. 
 
