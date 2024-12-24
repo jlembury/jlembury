@@ -1,10 +1,6 @@
-# Welcome!
+I am a 2nd year PhD student in the Joint Doctoral Program in Geography at San Diego State University and the University of California - Santa Barbara. I combine spatial and computational methods and thinking to research human dynamics and address social equity issues. My research interests include geospatial data ethics, community health and wellness, and education/workforce diversity.
 
-I'm Jessica Embury, a geographer and data scientist based in San Diego. I create engaging map products and powerful geospatial tools by combining GIS technology with software development and design. 
-
-As I work on my M.S. in GIScience at SDSU, I am working as a graduate research assistant for the AAG Encoding Geography project, which seeks to build inclusive pathways into geocomputational (geography and computer science) careers. I am also a core student member of the Center for Human Dynamics in the Mobile Age. My research interests include public health, human dynamics, and natural resource management. I particularly enjoy working with big data and incorporating software development into my GIS applications. As a self-taught web developer, I am excited to use this skill set to expand the scope and functionality of my projects. 
-
-You can also find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
+Connect with me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
