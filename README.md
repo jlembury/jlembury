@@ -1,4 +1,4 @@
-I am a 2nd year PhD student in the Joint Doctoral Program in Geography at San Diego State University and the University of California - Santa Barbara. I combine spatial and computational methods and thinking to research human dynamics and address social equity issues. My research interests include geospatial data ethics, community health and wellness, and education/workforce diversity.
+I’m a third-year PhD student in the Joint Doctoral Program in Geography at San Diego State University and UC Santa Barbara. My work blends spatial thinking with computational methods to explore how people move, connect, and thrive—and how data can be used more ethically and inclusively in that process. I’m passionate about geospatial data ethics, community health and wellness, and creating pathways for inclusive education and workforce development.
 
 Connect with me on [![LinkedIn][1.2]][1]
 
