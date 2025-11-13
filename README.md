@@ -1,4 +1,4 @@
-I’m a third-year PhD student in the Joint Doctoral Program in Geography at San Diego State University and UC Santa Barbara. I use spatial and computational methods to uncover patterns in how people move and connect, helping communities make more informed and ethical decisions with data. My research supports healthier, more resilient communities by advancing geospatial data ethics, addressing public health and accessibility concerns, and promoting inclusive pathways for education and workforce development.
+I’m a third-year PhD student in the Joint Doctoral Program in Geography at San Diego State University and UC Santa Barbara. I use spatial and computational methods to discover patterns in how people move and connect, helping communities make more informed and ethical decisions with data. My research supports healthier, more resilient communities by advancing geospatial data ethics, addressing public health and accessibility concerns, and promoting inclusive pathways for education and workforce development.
 
 Connect with me on [![LinkedIn][1.2]][1]
 
